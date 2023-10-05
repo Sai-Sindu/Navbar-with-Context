@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.light-theme-home-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-img {
+  height: 150px;
+}
+.light-home-title {
+  color: #000000;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.dark-theme-home-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+}
+.dark-home-title {
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: 700;
+  font-family: 'Roboto';
+}

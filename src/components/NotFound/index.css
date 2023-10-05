@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.light-theme-not-found-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.not-found-img {
+  height: 200px;
+}
+.light-not-found-title {
+  font-size: 30px;
+  color: #1e293b;
+}
+.light-not-found-description {
+  font-size: 18px;
+  color: #334155;
+}
+.dark-theme-not-found-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+  background-color: #000000;
+}
+.dark-not-found-title {
+  font-size: 30px;
+  color: #ffffff;
+}
+.dark-not-found-description {
+  font-size: 18px;
+  color: #dcdcdc;
+}
